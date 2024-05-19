@@ -1,0 +1,17 @@
+{
+  "name": "posgraduacao",
+  "version": "1.0.0",
+  "description": "Trabalho de conclusão de disciplina",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*/**.test.js"
+  },
+  "author": "Dalcilene Ramos de Assis",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
